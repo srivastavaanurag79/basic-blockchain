@@ -1,0 +1,26 @@
+{
+  "name": "basic-blockchain",
+  "version": "1.0.0",
+  "description": "A simple blockchain and cryptocurrency wallet implemented in typescript and node.js (for educational purposes).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "keywords": [
+    "blockchain",
+    "typescript",
+    "node.js"
+  ],
+  "repository": "https://github.com/srivastavaanurag79/basic-blockchain",
+  "author": "Anurag Srivastava <srivastavaanurag79@gmail.com> (https://github.com/srivastavaanurag79)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srivastavaanurag79/basic-blockchain/issues"
+  },
+  "homepage": "https://github.com/srivastavaanurag79/basic-blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^14.17.13",
+    "typescript": "^4.4.2"
+  }
+}
